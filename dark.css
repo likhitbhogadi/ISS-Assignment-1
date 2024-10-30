@@ -3,9 +3,15 @@
     --mainBgColor: #F6F7EB;
 } */
 
-:root {
+/* :root {
     --boxColor: #F391A0;    
     --mainBgColor: #393E41;
+} */
+
+:root {
+    --mainBgColor: #000000;
+    --boxColor: #803f14;    
+    --textcolor: #1E3E62;
 }
 
 * {

@@ -1,6 +1,8 @@
 :root {
-    --boxColor: #5C415D;
     --mainBgColor: #F6F7EB;
+    --boxColor: #608BC1;
+    --lighttextcolor: #CBDCEB;
+    --darktextcolor: #133E87;
 }
 
 /* :root {

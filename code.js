@@ -14,7 +14,7 @@ function toggle(){
         state=1;
     }
     else{
-        link.setAttribute('href','style.css');
+        link.setAttribute('href','light.css');
         btn.innerText="Light Mode ";
         modeIcon.src = "https://cdn-icons-png.flaticon.com/128/8637/8637690.png";
         state=0;
